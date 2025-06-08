@@ -1,3 +1,6 @@
+function myFunction() {
+    location.replace("calculator.html")
+  }
 
 var newLine = true;
 var value1 , value2;
