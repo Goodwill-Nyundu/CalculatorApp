@@ -1,5 +1,5 @@
 function myFunction() {
-    location.replace("calculator.html")
+    window.location.href = "calculator.html";
   }
 
 var newLine = true;
